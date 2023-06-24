@@ -1,4 +1,4 @@
-# plugins
+# dr-vue-date-picker
 
 ## Project setup
 ```
